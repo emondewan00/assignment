@@ -74,7 +74,7 @@ main{
     color: #444343;
 }
 ul li{
-    list-style: circle;
+    list-style-image: url(./images/icons/check-solid.svg);
     font-size: 18px;
     line-height: 25px;
     color: #444343;
